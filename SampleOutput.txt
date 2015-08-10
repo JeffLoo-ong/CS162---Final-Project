@@ -1,0 +1,97 @@
+Welcome to the Polymorphic Battlegrounds!
+How many creatures would you like to duke it out with?
+2
+Player 1 please select your warriors
+Enter the number for your warrior:
+1) Barbarian
+2) Goblin
+3) Reptile People
+4) Blue Men
+5) The Shadow
+2
+Enter the number for your warrior:
+1) Barbarian
+2) Goblin
+3) Reptile People
+4) Blue Men
+5) The Shadow
+4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Player 2 please select your warriors
+Enter the number for your warrior:
+1) Barbarian
+2) Goblin
+3) Reptile People
+4) Blue Men
+5) The Shadow
+5
+Enter the number for your warrior:
+1) Barbarian
+2) Goblin
+3) Reptile People
+4) Blue Men
+5) The Shadow
+1
+Scoring Table
+            Opponent
+  Fighter              | Goblin | Barbarian | ReptileMan | BlueMan | Shadow |
+-------------------------------------------------------------------------------
+          | Goblin     |      1 |         1 |          1 |       1 |      1 |
+-------------------------------------------------------------------------------
+          | Barbarian  |      2 |         2 |          2 |       1 |      2 |
+-------------------------------------------------------------------------------
+          | ReptileMan |      4 |         3 |          3 |       3 |      3 |
+-------------------------------------------------------------------------------
+          | BlueMan    |      6 |         6 |          5 |       4 |      5 |
+-------------------------------------------------------------------------------
+          | Shadow     |      4 |         4 |          4 |       4 |      3 |
+
+***********************************************
+Let's get ready to RRRRRRUMMMMMMBBLLLEEEEE!!!!!
+***********************************************
+
+Battle 1!
+
+Player 1's Gobgob VS Player 2's Shadow
+Player 2's Shadow is victorius!
+Team 1 Score: 0
+Team 2 Score: 1
+Player1 Queue: BluesMan,
+Player2 Queue: Barbarb, Shadow,
+Loser pile:   Gobgob,
+
+--------------------------------------------
+Battle 2!
+
+Player 1's BluesMan VS Player 2's Barbarb
+Player 1's BluesMan is victorius!
+Team 1 Score: 1
+Team 2 Score: 1
+Player1 Queue: BluesMan,
+Player2 Queue: Shadow,
+Loser pile:   Gobgob, Barbarb,
+
+--------------------------------------------
+Battle 3!
+
+Player 1's BluesMan VS Player 2's Shadow
+Draw! Both creatures killed each other :O
+Team 1 Score: 1
+Team 2 Score: 1
+Player1 Queue: Cannot display Queue items; Queue is empty!
+Player2 Queue: Cannot display Queue items; Queue is empty!
+Loser pile:   Gobgob, Barbarb, BluesMan, Shadow,
+
+--------------------------------------------
+
+
+FINAL RESULTS!!!
+********************************************
+Team 1 Score: 1
+Team 2 Score: 1
+OVERAL RESULT: DRAW!
+Top 3 creatures
+1. Shadow
+2. BluesMan
+3. Barbarb
+********************************************
